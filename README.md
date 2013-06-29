@@ -1,4 +1,4 @@
-Hecules Beer Manifest
+Hercules Beer Manifest
 ====
 
 Getting Started
